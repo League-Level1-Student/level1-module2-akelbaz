@@ -20,7 +20,8 @@ This is because there is no Minion class in the package.
 2.
  So to make these tests pass, you will first need to create a Minion class with the member variables below:
 
-  			private String name; 
+  		
+			private String name; 
   			private int eyes; 
   			private String color; 
   			private String master;
